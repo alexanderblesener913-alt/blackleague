@@ -1,6 +1,6 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<title><head></head><style>
+<head><title></title><style>
 .b
 {
 background-color:blue;
@@ -9,7 +9,7 @@ background-color:blue;
 {
 background-color:red;
 }
-</style></title>
+</style>
 </head>
 <body>
 <div class="r">
